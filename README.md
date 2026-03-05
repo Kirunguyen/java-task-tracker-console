@@ -11,7 +11,7 @@ A console-based task management application built in Java to demonstrate MVC arc
 
 ## Project Structure
 src/
-├── model
-├── service
-├── view
-└── controller
+- model
+- service
+- view
+- controller
